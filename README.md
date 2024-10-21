@@ -1,2 +1,2 @@
 # QA-Portfolio
-Quality Assuranc Portfolio
+Quality Assurance Portfolio
